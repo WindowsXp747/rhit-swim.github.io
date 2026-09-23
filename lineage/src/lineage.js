@@ -118,7 +118,7 @@ const LINES = {
         "sons": []
     },
     "aron_varga": {
-        "name": "Aron Varga"
+        "name": "Aron Varga",
         "year": 2025,
         "sons": []
     },
