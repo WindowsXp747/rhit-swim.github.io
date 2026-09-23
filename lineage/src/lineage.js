@@ -89,13 +89,14 @@ const LINES = {
     "matteo_calviello": {
         "name": "Matteo Calviello",
         "year": 2022,
-        "sons": []
+        "sons": ["aron_varga
+        ]
     },
     "tommaso_calviello": {
         "name": "Tommaso Calviello",
         "year": 2022,
         "sons": [
-            "ethan_crane"
+            "travis_zinzer"
         ]
     },
     "nathan_j_neppl": {
@@ -110,8 +111,13 @@ const LINES = {
         "year": 2023,
         "sons": []
     },
-    "ethan_crane": {
-        "name": "Ethan Crane",
+    "travis_zinzer": {
+        "name": "Travis Zinzer",
+        "year": 2025,
+        "sons": []
+    },
+    "aron_varga": {
+        "name": "Aron Varga"
         "year": 2025,
         "sons": []
     },
@@ -319,12 +325,18 @@ const LINES = {
         "name": "Anthony Hoyt",
         "year": 2022,
         "sons": [
-            "logan_meyer"
+            "logan_meyer",
+            "ethan_crane"
         ]
     },
     "logan_meyer": {
         "name": "Logan Meyer",
         "year": 2023,
+        "sons": []
+    },
+    "ethan_crane": {
+        "name": "Ethan Crane",
+        "year": 2025,
         "sons": []
     },
 
