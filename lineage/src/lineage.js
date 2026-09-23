@@ -89,7 +89,8 @@ const LINES = {
     "matteo_calviello": {
         "name": "Matteo Calviello",
         "year": 2022,
-        "sons": ["aron_varga
+        "sons": [
+            "aron_varga"
         ]
     },
     "tommaso_calviello": {
