@@ -379,7 +379,8 @@ const LINES = {
             "blaise_swartwood",
             "brian_beasley",
             "garrett_walls",
-            "emre_gunay"
+            "emre_gunay",
+            "trevor_wiley"
         ]
     },
     "zsolt_trukai": {
@@ -472,6 +473,11 @@ const LINES = {
         "sons": [
             "andrew_sampson"
         ]
+    },
+    "trevor_wiley": {
+        "name": "Trevor Wiley",
+        "year": 2024,
+        "sons": []
     },
     "josh_craig": {
         "name": "Josh Craig (Chewy)",
